@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# environment variables
+.env
+
+# request test
+request
+
+# generate compile build
+dist
